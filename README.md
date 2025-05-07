@@ -1,1 +1,1 @@
-# Quarter4_FA3
+Today, I was tasked to create 2 html files with a java script. I had to make an output of numbers in a triangle or square shape based if they were even or odd and another one where I could input a name and I had the choice to add and remove it. With this, I used the concepts that I learned in lg 12.2
